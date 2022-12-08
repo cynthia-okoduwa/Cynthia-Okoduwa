@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- My name's Cynthia Okoduwa
+- My name's [Cynthia Okoduwa](https://www.linkedin.com/in/cynthia-okoduwa/)
 <!--
 **cynthia-okoduwa/Cynthia-Okoduwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
